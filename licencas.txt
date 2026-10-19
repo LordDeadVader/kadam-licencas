@@ -1,0 +1,3 @@
+# Licencas das versoes de cliente do dCut
+# NOME = ativo | bloqueado      (TODOS = bloqueado desliga todas)
+PRIMOR = ativo
