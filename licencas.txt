@@ -1,3 +1,4 @@
 # Licencas das versoes de cliente do dCut
-# NOME = ativo | bloqueado      (TODOS = bloqueado desliga todas)
+# NOME = ativo (vale o prazo de teste) | liberado (sem prazo) | bloqueado
+# TODOS = bloqueado desliga todas
 PRIMOR = ativo
